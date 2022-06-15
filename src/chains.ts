@@ -299,6 +299,18 @@ const CHAIN_INFORMATION = new Map<number, ChainInformation | ChainType>([
     },
   ],
   [
+    421610,
+    {
+      id: 421610,
+      nativeCurrency: ETH,
+      type: 'arbitrumFork',
+      fullName: 'Arbitrum Fork',
+      shortName: 'Arbitrum Fork',
+      explorerUrl: 'https://testnet.arbiscan.io/',
+      testnet: true,
+    },
+  ],
+  [
     421611,
     {
       id: 421611,
