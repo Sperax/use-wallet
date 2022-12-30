@@ -311,6 +311,18 @@ const CHAIN_INFORMATION = new Map<number, ChainInformation | ChainType>([
     },
   ],
   [
+    421609,
+    {
+      id: 421609,
+      nativeCurrency: ETH,
+      type: 'ARB_Fork_Server',
+      fullName: 'ARB Fork Server',
+      shortName: 'ARB Fork Server',
+      explorerUrl: 'https://testnet.arbiscan.io/',
+      testnet: true,
+    },
+  ],
+  [
     421611,
     {
       id: 421611,
