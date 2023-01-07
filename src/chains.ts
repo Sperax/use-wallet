@@ -96,9 +96,9 @@ const CHAIN_INFORMATION = new Map<number, ChainInformation | ChainType>([
     },
   ],
   [
-    1000,
+    1337,
     {
-      id: 1000,
+      id: 1337,
       nativeCurrency: ETH,
       type: 'Mainnet Fork',
       fullName: 'Mainnet Fork',
