@@ -96,6 +96,18 @@ const CHAIN_INFORMATION = new Map<number, ChainInformation | ChainType>([
     },
   ],
   [
+    1000,
+    {
+      id: 1000,
+      nativeCurrency: ETH,
+      type: 'Mainnet Fork',
+      fullName: 'Mainnet Fork',
+      shortName: 'Mainnet Fork',
+      explorerUrl: 'https://etherscan.io',
+      testnet: true,
+    },
+  ],
+  [
     3,
     {
       id: 3,
